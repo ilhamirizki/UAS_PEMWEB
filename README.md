@@ -14,8 +14,7 @@
 
 ## Tampilan web pelayanan (CRUD)
 
-![layanan](https://user-images.githubusercontent.com/81584642/126403975-08d73fe9-ea0c-4c5e-9bec-f0f79148e103.
-JPG)
+![layanan](https://user-images.githubusercontent.com/81584642/126403975-08d73fe9-ea0c-4c5e-9bec-f0f79148e103.JPG)
 
 ## Tampilan web loket
 
